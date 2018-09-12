@@ -1,0 +1,13 @@
+#include<stdio.h>
+void display(int j)
+{
+int k=34;
+printf("%d\n",j);
+printf("%d\n",k);
+}
+int main()
+{
+int i=20;
+display(i);
+return 0;
+}
